@@ -1,6 +1,6 @@
 # JS Frameworks Course Assignment
 
-![articles](https://user-images.githubusercontent.com/72661374/224540582-225d515d-4f5f-4063-933c-c697a566ba28.png)
+
 
 
 ## Brief
